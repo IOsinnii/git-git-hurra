@@ -1,4 +1,4 @@
-const cats = ["Sir Fluffington III", "Baron von Whiskers", "Miss Marple the Tabby"];
+const cats = ["Sir Fluffington III", "Baron von Whiskers", "Miss Marple the Tabby", "fourth cat in the array"];
 
 function featuredCat() {
   const today = new Date().getDate();
