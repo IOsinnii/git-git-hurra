@@ -8,3 +8,11 @@ body {
 h1 {
   color: darkslateblue;
 }
+
+p {
+  color: #333;
+}
+
+strong {
+  color: crimson;
+}
