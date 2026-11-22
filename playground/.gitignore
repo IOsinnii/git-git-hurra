@@ -1,0 +1,4 @@
+.vscode-junk.txt
+
+# build output — regenerate with the build tool, never commit
+dist/

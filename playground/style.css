@@ -1,0 +1,18 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 640px;
+  margin: 2rem auto;
+  line-height: 1.6;
+}
+
+h1 {
+  color: darkslateblue;
+}
+
+p {
+  color: #333;
+}
+
+strong {
+  color: crimson;
+}
